@@ -1,7 +1,7 @@
 <?php
-    $velocidade = intval(fgets(STDIN));
-    $distancia = intval(fgets(STDIN));
-    $consumo = intval(fgets(STDIN));
+    $velocidade = readline();
+    $distancia = readline();
+    $consumo = readline();
 
     $velocidade = number_format($velocidade, 2, ".", "");
     $distancia = number_format($distancia, 2, ".", "");
