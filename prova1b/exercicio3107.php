@@ -12,7 +12,7 @@
     $horas = number_format($horas, 2, ".", "");
     $combustivel = number_format($combustivel, 2, ".", "");
 
-    echo "Total horas: $horas<br>";
+    echo "Total horas: $horas\n";
     echo "Total combustivel: $combustivel\n";
     
 ?>
