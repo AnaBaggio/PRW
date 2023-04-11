@@ -14,10 +14,5 @@
     $total = number_format($total, 2, '.', '');
 
     echo "VALOR A PAGAR: R$ $total\n";
+    
 ?>
-
-
-string
-repetição - ho 
-voleibol - vetores
-
